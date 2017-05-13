@@ -2,7 +2,7 @@
 library(Hmisc)
 library(tidyverse)
 library(caret)
-color<-"coral1"
+color<-"cornflowerblue"
 
 #Load data
 dtrain<-read.csv("train.csv", stringsAsFactors = FALSE)
